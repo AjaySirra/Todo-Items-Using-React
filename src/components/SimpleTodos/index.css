@@ -1,0 +1,33 @@
+.bg-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.card {
+  background-color: #ffffff;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-size: cover;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 32px;
+  color: #ff8542;
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+.list-container {
+  margin-top: 20px;
+}
